@@ -1,7 +1,7 @@
 ---
 title:  "Le bateau ivre"
 author: "Arthur Rimbaud"
-date:   2019-09-26 12:21:56 +0200
+date:   2019-09-26 17:43:51 +0200
 ---
 Comme je descendais des Fleuves impassibles,  
 Je ne me sentis plus guidé par les haleurs :  
