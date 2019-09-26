@@ -17,7 +17,7 @@ jQuery(document).ready(function(){
 			}
 			div.append(line_div);
 		}
-		else if (l>0) {
+		if (l>0) {
 			div.append($('<br />'));
 		}
 	}
