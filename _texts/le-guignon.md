@@ -1,5 +1,5 @@
 ---
-title:  "Le guignon"
+title: "Le guignon"
 author: "Charles Baudelaire"
 language: "français"
 date:   2019-09-26 12:21:56 +0200

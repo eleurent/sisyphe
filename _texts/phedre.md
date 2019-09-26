@@ -1,7 +1,7 @@
 ---
-title:  "Phèdre I, 3"
+title: "Phèdre I, 3"
 author: "Jean Racine"
-language:   "français"
+language: "français"
 date:   2019-09-26 20:15:00 +0200
 ---
 ŒNONE  
