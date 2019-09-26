@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+.line {
+	display: inline-block;
+}
+.hidden {
+	background-color: #000000;
+}
