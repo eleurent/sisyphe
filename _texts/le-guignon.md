@@ -6,7 +6,7 @@ date:   2019-09-26 12:21:56 +0200
 
 Pour soulever un poids si lourd,  
 Sisyphe, il faudrait ton courage !  
-Bien qu'on ait du coeur à l'ouvrage,  
+Bien qu'on ait du cœur à l'ouvrage,  
 L'Art est long et le Temps est court.
 
 Loin des sépultures célèbres,  
