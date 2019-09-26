@@ -1,6 +1,7 @@
 ---
 title:  "Ozymandias"
 author: "Percy Shelley"
+language:   "english"
 date:   2019-09-26 18:38:34 +0200
 ---
 I met a traveller from an antique land  
