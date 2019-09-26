@@ -11,14 +11,15 @@ layout: default
 
   {%- if site.texts.size > 0 -%}
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Texts" }}</h2> -->
+    {% assign texts = site.texts | sort: 'date' | reverse %}
     <table class="post-list">
-      {%- for text in site.texts -%}
+      {%- for text in texts -%}
       <tr>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <td><a class="post-link" href="{{ text.url | relative_url }}">
             {{ text.title | escape }}
           </a></td>
           <td><span class="post-meta">{{ text.author | escape }}</span></td>
+          <td class="post-meta">{{ text.language | slice: 0, 2 | capitalize}}</td>
       </tr>
       {%- endfor -%}
     </table>
