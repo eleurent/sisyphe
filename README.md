@@ -1,4 +1,4 @@
-# Sisyphe
+# [Sisyphe](http://eleurent.github.io/sisyphe)
 
 > Pour soulever un poids si lourd,  
 > Sisyphe, il faudrait ton courage !  
