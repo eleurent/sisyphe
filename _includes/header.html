@@ -18,8 +18,8 @@
 
         <div class="trigger">
           {%- if page.url contains '/texts/' -%}
-          <a class="page-link" href="javascript:void(0)" class="button" id="hide">Hide</a>
           <a class="page-link" href="javascript:void(0)" class="button" id="show">Show</a>
+          <a class="page-link" href="javascript:void(0)" class="button" id="hide">Hide</a>
           {%- endif -%}
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
