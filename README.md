@@ -10,6 +10,6 @@ Learn poetry by progressively hiding words.
 ## Contribute
 
 To submit a new poem,
-1. Add a new Markdown file in the `_texts` directory
-2. Add [two spaces](https://gist.github.com/shaunlebron/746476e6e7a4d698b373) at the end of each line, to preserve line breaks.
+1. Add a new Markdown file in the `_texts` directory;
+2. Add [two spaces](https://gist.github.com/shaunlebron/746476e6e7a4d698b373) at the end of each line, to preserve line breaks;
 3. Open a pull request.
