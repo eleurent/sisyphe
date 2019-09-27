@@ -1,15 +1,24 @@
+/** Current number of words hidden in each line, and its maximum. */
 var hidden_index = 0, max_index = 0;
 
+/**
+ * Wrap each line of each paragraph of a div, inside a span.
+ *
+ * Strong and emph modifiers are handled, but assumed to wrap entire lines.
+ * @param div the container to consider
+ */
 function wrapLines(div) {
     div.children('p').each(function() {
         $(this).contents().filter(function() {
             return this.nodeType == 3; // filter <br>
         }).wrap('<span class="line">');
     });
-    // handle strong and emph, but only for whole lines
     div.find('strong, em').wrap('<span class="line">');
 }
 
+/**
+ * Wrap each word of each .line inside a span.
+ */
 function wrapWords() {
     $('.line').each(function() {
         var words = $(this).html().split(' ').filter(x => x),
@@ -21,6 +30,9 @@ function wrapWords() {
     });
 }
 
+/**
+ * Choose an ordering of words in each line, through an order attribute.
+ */
 function orderWords() {
     $('.line').each(function() {
         var words = $(this).find('.word');
@@ -32,6 +44,12 @@ function orderWords() {
     });
 }
 
+/**
+ * Generate a random permutation of numbers in a range
+ *
+ * @param min the minimum of the range
+ * @param max the maximum of the range
+ */
 function randomArray(min, max) {
   return (new Array(max-min))
     .join(',').split(',')
