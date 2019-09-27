@@ -3,9 +3,11 @@ var hidden_index = 0, max_index = 0;
 function wrapLines(div) {
     div.children('p').each(function() {
         $(this).contents().filter(function() {
-            return this.nodeType == 3;
+            return this.nodeType == 3; // filter <br>
         }).wrap('<span class="line">');
     });
+    // handle strong and emph, but only for whole lines
+    div.find('strong, em').wrap('<span class="line">');
 }
 
 function wrapWords() {
