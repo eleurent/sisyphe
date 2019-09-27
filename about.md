@@ -10,6 +10,11 @@ permalink: /about/
 > L'Art est long et le Temps est court.  
 > -- Charles Baudelaire
 
-Learn poetry by progressively hiding words.
+## Usage
+
+While the text is not known,
+1. Read it entirely;
+2. If that went well, try to `Hide` more words;
+3. Otherwise, step back and `Show` more words.
 
 Feel free to [contribute <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>](https://github.com/eleurent/sisyphe)
