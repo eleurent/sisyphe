@@ -5,7 +5,13 @@
 > Bien qu'on ait du cœur à l'ouvrage,  
 > L'Art est long et le Temps est court.  
 
-Learn poetry by progressively hiding words.
+## Usage
+
+While the text is not known,
+1. Read it entirely;
+2. If that went well, try to `Hide` more words;
+3. Otherwise, step back and `Show` more words.
+
 
 ## Contribute
 
