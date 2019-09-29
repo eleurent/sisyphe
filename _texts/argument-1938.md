@@ -22,4 +22,4 @@ angélique.
 conscience s'avance et dépose son limon.  
 	Aoûtement. Une dimension franchit le fruit de l'autre.  
 Dimensions adversaires. Déporté de l'attelage et des noces,  
-je bats le fer des fermoirs invisibles.
+je bats le fer des fermoirs invisibles.  
