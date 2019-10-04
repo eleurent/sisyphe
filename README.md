@@ -15,6 +15,6 @@ While the text is not known,
 
 ## Make your own corpus
 
-1. [Fork](https://github.com/eleurent/sisyphe/fork) the repository,
+1. [Fork the repository](https://github.com/eleurent/sisyphe/fork);
 2. Add your own texts as Markdown files in the `_texts` directory;
-3. Set-up a [github page](https://pages.github.com/)
+3. Set up a [github page](https://pages.github.com/).
