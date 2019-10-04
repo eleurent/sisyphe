@@ -22,7 +22,7 @@ layout: default
           <td class="post-meta">{{ text.language | slice: 0, 2 | capitalize}}</td>
           {% assign progress = text.progress | default: 0 %}
           {% assign progress_bar = progress | divided_by: 25 | floor | times: 25 %}
-          <td class="post-meta"><img class="caption__media" src="/assets/img/progress_{{ progress_bar }}.svg" alt="{{ progress }}%" title="{{ progress }}%" width="32px"/></td>
+          <td class="post-meta"><img class="caption__media" src="{{ site.baseurl }}/assets/img/progress_{{ progress_bar }}.svg" alt="{{ progress }}%" title="{{ progress }}%" width="32px"/></td>
       </tr>
       {%- endfor -%}
     </table>
