@@ -2,7 +2,7 @@
 title: "Ceux qui vivent, ce sont ceux qui luttent"
 author: "Victor Hugo"
 language: "français"
-date:   2019-09-27 00:05:00 +0200
+date: 2019-09-27 00:05:00 +0200
 ---
 Ceux qui vivent, ce sont ceux qui luttent ; ce sont
 Ceux dont un dessein ferme emplit l'âme et le front.
