@@ -3,6 +3,7 @@ title: "Les Étiquettes Jaunes"
 author: "Frank O'Hara"
 language: "english"
 date: 2019-09-27 00:10:00 +0200
+progress: 100
 ---
 I picked up a leaf
 today from the sidewalk.
@@ -16,7 +17,7 @@ As if there were no
 such thing as integrity!
 
 You are too relaxed
-to answer me.I am too
+to answer me. I am too
 frightened to insist.
 
 Leaf! don’t be neurotic

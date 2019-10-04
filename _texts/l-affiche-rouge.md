@@ -3,6 +3,7 @@ title: "Strophes pour se souvenir"
 author: "Louis Aragon"
 language: "français"
 date: 2019-09-26 23:54:00 +0200
+progress: 100
 ---
 Vous n'avez réclamé ni gloire ni les larmes
 Ni l'orgue ni la prière aux agonisants

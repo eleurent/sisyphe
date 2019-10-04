@@ -3,6 +3,7 @@ title: "First Fig"
 author: "Edna St. Vincent Millay"
 language: "english"
 date: 2019-09-27 00:02:00 +0200
+progress: 100
 ---
 My candle burns at both ends;
 &nbsp;&nbsp;It will not last the night;

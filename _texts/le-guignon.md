@@ -3,6 +3,7 @@ title: "Le guignon"
 author: "Charles Baudelaire"
 language: "français"
 date: 2019-09-26 12:21:56 +0200
+progress: 100
 ---
 Pour soulever un poids si lourd,
 Sisyphe, il faudrait ton courage !

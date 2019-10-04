@@ -3,6 +3,7 @@ title: "The Road Not Taken"
 author: "Robert Frost"
 language: "english"
 date: 2019-09-26 20:28:00 +0200
+progress: 100
 ---
 Two roads diverged in a yellow wood,
 And sorry I could not travel both
