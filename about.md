@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-> Pour soulever un poids si lourd, \
-> Sisyphe, il faudrait ton courage ! \
-> Bien qu'on ait du cœur à l'ouvrage, \
-> L'Art est long et le Temps est court. \
+> Pour soulever un poids si lourd,  
+> Sisyphe, il faudrait ton courage !  
+> Bien qu'on ait du cœur à l'ouvrage,  
+> L'Art est long et le Temps est court.  
 > -- Charles Baudelaire
 
 ## Usage
