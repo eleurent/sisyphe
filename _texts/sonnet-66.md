@@ -3,6 +3,7 @@ title: "Sonnet 66"
 author: "William Shakespeare"
 language: "english"
 date: 2019-09-29 01:14:00 +0200
+progress: 75
 ---
 Tir’d with all these, for restful death I cry,
 As, to behold desert a beggar born,
