@@ -32,6 +32,7 @@ github_username:  eleurent
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 collections:
   texts:
@@ -48,8 +49,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-emoji_dir: ./assets/img/emoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
