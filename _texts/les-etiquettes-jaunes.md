@@ -1,7 +1,7 @@
 ---
 title: "Les Étiquettes Jaunes"
 author: "Frank O'Hara"
-language: ":uk:"
+language: ":us:"
 date: 2019-09-27 00:10:00 +0200
 progress: 100
 ---
