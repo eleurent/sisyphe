@@ -1,7 +1,7 @@
 ---
 title: "La conscience"
 author: "Victor Hugo"
-language: "français"
+language: ":fr:"
 date: 2019-09-26 18:58:00 +0200
 progress: 60
 ---

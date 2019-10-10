@@ -1,7 +1,7 @@
 ---
 title: "Vous ne saurez jamais"
 author: "Marguerite Yourcenar"
-language: "français"
+language: ":fr:"
 date: 2019-09-29 00:56:00 +0200
 ---
 Vous ne saurez jamais que votre âme voyage

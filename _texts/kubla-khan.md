@@ -1,7 +1,7 @@
 ---
 title: "Kubla Khan"
 author: "Samuel Taylor Coleridge"
-language: "english"
+language: ":uk:"
 date: 2019-09-26 23:58:00 +0200
 ---
 In Xanadu did Kubla Khan

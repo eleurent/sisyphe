@@ -1,7 +1,7 @@
 ---
 title: "Ozymandias"
 author: "Percy Shelley"
-language: "english"
+language: ":uk:"
 date: 2019-09-26 18:38:34 +0200
 progress: 100
 ---

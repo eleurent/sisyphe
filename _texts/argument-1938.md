@@ -1,7 +1,7 @@
 ---
 title: "Argument - 1938"
 author: "René Char"
-language: "français"
+language: ":fr:"
 date: 2019-09-27 23:06:00 +0200
 ---
 &nbsp;&nbsp;L'homme fuit l'asphyxie.

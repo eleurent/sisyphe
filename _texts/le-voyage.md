@@ -1,7 +1,7 @@
 ---
 title: "Le voyage"
 author: "Charles Baudelaire"
-language: "français"
+language: ":fr:"
 date: 2019-09-27 16:15:00 +0200
 progress: 3
 ---

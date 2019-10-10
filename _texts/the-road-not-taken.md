@@ -1,7 +1,7 @@
 ---
 title: "The Road Not Taken"
 author: "Robert Frost"
-language: "english"
+language: ":uk:"
 date: 2019-09-26 20:28:00 +0200
 progress: 100
 ---

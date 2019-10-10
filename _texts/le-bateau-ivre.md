@@ -1,7 +1,7 @@
 ---
 title: "Le bateau ivre"
 author: "Arthur Rimbaud"
-language: "français"
+language: ":fr:"
 date: 2019-09-26 17:43:51 +0200
 progress: 100
 ---

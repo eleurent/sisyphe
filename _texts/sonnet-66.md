@@ -1,7 +1,7 @@
 ---
 title: "Sonnet 66"
 author: "William Shakespeare"
-language: "english"
+language: ":uk:"
 date: 2019-09-29 01:14:00 +0200
 progress: 75
 ---

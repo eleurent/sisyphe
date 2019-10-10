@@ -1,7 +1,7 @@
 ---
 title: "First Fig"
 author: "Edna St. Vincent Millay"
-language: "english"
+language: ":uk:"
 date: 2019-09-27 00:02:00 +0200
 progress: 100
 ---
