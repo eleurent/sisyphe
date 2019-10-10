@@ -3,6 +3,7 @@ title: "Argument - 1938"
 author: "René Char"
 language: ":fr:"
 date: 2019-09-27 23:06:00 +0200
+progress: 75
 ---
 &nbsp;&nbsp;L'homme fuit l'asphyxie.
 &nbsp;&nbsp;L'homme dont l'appétit hors de l'imagination se calfeutre sans finir de s'approvisionner, se délivrera par les mains, rivières soudainement grossies.
