@@ -19,9 +19,16 @@ layout: default
             {{ text.title | escape }}
           </a></td>
           <td><span class="post-meta">{{ text.author | escape }}</span></td>
-          {% assign progress = text.progress | default: 0 %}
-          {% assign progress_bar = progress | divided_by: 25 | floor | times: 25 %}
-          <td class="post-meta"> {{ text.language }} <img class="caption__media" src={{ "/assets/img/progress_" | append: progress_bar | append: ".svg" | relative_url }} alt="{{ progress }}%" title="{{ progress }}%" width="20" height="20"/></td>
+          <td class="post-meta">
+            {%- if text.language_unicode -%}
+            <img class="emoji" title="{{ text.language }}" alt="{{ text.language }}" src="https://github.githubassets.com/images/icons/emoji/unicode/{{ text.language_unicode }}.png" width="20" height="20">
+            {%- else -%}
+            {{ text.language }}
+            {%- endif -%}
+            {% assign progress = text.progress | default: 0 %}
+            {% assign progress_bar = progress | divided_by: 25 | floor | times: 25 %}
+            <img class="caption__media" src={{ "/assets/img/progress_" | append: progress_bar | append: ".svg" | relative_url }} alt="{{ progress }}%" title="{{ progress }}%" width="20" height="20"/>
+          </td>
       </tr>
       {%- endfor -%}
     </table>
