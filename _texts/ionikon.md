@@ -15,3 +15,16 @@ progress: 0
 και κάποτ’ αιθερία εφηβική μορφή,
 αόριστη, με διάβα γρήγορο,
 επάνω από τους λόφους σου περνά.
+
+---
+
+Nous avons beau avoir brisé leurs statues,
+nous avons beau les avoir chassés de leurs temples,
+les dieux n’en sont pas morts le moins du monde. 
+Ô terre d’Ionie, c’est toi qu’ils aiment encore,
+de toi leurs âmes se souviennent encore. 
+Lorsque sur toi se lève un matin du mois d’août,
+une vie venue d’eux passe en ton atmosphère ;
+une forme adolescente, parfois
+aérienne, indécise, au pas vif,
+passe au dessus de tes collines.
