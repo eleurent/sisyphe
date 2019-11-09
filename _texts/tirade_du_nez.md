@@ -3,7 +3,7 @@ title: "Cyrano De Bergerac"
 author: "Edmond Rostand"
 language: ":fr:"
 date: 2019-10-23 00:02:00 +0200
-progress: 0
+progress: 100
 ---
 Ah ! non ! c’est un peu court, jeune homme !
 On pouvait dire… Oh ! Dieu ! … bien des choses en somme…
@@ -52,10 +52,3 @@ Si vous aviez un peu de lettres et d’esprit
 Mais d’esprit, ô le plus lamentable des êtres,
 Vous n’en eûtes jamais un atome, et de lettres
 Vous n’avez que les trois qui forment le mot : sot !
-Eussiez-vous eu, d’ailleurs, l’invention qu’il faut
-Pour pouvoir là, devant ces nobles galeries,
-me servir toutes ces folles plaisanteries,
-Que vous n’en eussiez pas articulé le quart
-De la moitié du commencement d’une, car
-Je me les sers moi-même, avec assez de verve,
-Mais je ne permets pas qu’un autre me les serve.
