@@ -3,7 +3,7 @@ title: "Bluebird"
 author: "Charles Bukowski"
 language: ":us:"
 date: 2019-11-09 00:02:06 +0200
-progress: 0
+progress: 100
 ---
 there’s a bluebird in my heart that
 wants to get out
