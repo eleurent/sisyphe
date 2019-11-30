@@ -3,7 +3,7 @@ title: "Kubla Khan"
 author: "Samuel Taylor Coleridge"
 language: ":uk:"
 date: 2019-09-26 23:58:00 +0200
-progress:50
+progress: 50
 ---
 In Xanadu did Kubla Khan
 A stately pleasure-dome decree:
