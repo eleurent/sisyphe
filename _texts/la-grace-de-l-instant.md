@@ -40,7 +40,7 @@ Les volcans de cristal, les landes de papier,
 Et dans l’air embrumé des vallons dépliés
 Un frisson automnal hérisse les dolmens.
 
-Des rameaux grésillant tombe le singe-feu
+Des rameaux grésillants tombe le singe-feu
 Qui foule avidement le moelleux des tourbières.
 Depuis les abysses en cohortes légères
 Se hissent les hélices au grain rocailleux.
