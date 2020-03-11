@@ -3,7 +3,7 @@ title: "5 (Pour un art poétique)"
 author: "Raymond Queneau"
 language: ":fr:"
 date: 2020-01-09 11:13:00 +0200
-progress: 0
+progress: 100
 ---
 Bon dieu de bon dieu que j'ai envie d'écrire un petit poème
 Tiens en voilà justement un qui passe
