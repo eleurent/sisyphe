@@ -4,7 +4,7 @@ author: "William Butler Yeats"
 language: ":ir:"
 language_unicode: "1f1ee-1f1ea"
 date: 2020-03-22 16:27:00 +0200
-progress: 0
+progress: 100
 ---
 Though the great song return no more
 There's keen delight in what we have:
