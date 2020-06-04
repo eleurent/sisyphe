@@ -1,7 +1,7 @@
 ---
 title: "La grâce de l’instant"
 author: "Ivain Maucorps"
-published-in: "https://pastebin.com/W7QFraij"
+published-in: "Pastebin"
 publication-date: 2019
 language: ":fr:"
 date: 2019-12-18 05:53:06 +0200
