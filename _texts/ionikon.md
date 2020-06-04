@@ -1,6 +1,8 @@
 ---
 title: "Ιωνικόν"
 author: "Κωνσταντίνος Καβάφης"
+collection: "Ποιήματα"
+publication-date: 1911
 language: ":gr:"
 language_unicode: "1f1ec-1f1f7"
 date: 2019-10-13 23:02:00 +0200
@@ -18,7 +20,7 @@ progress: 100
 επάνω από τους λόφους σου περνά.
 
 
-
+## Traduction de Michel Volkovitch
 Nous avons beau avoir brisé leurs statues,
 nous avons beau les avoir chassés de leurs temples,
 les dieux n’en sont pas morts le moins du monde. 

@@ -1,6 +1,8 @@
 ---
 title: "If—"
 author: "Rudyard Kipling"
+collection: "Rewards and Fairies"
+publication-date: 1910
 language: ":uk:"
 date: 2020-05-17 15:49:35 +0200
 progress: 0

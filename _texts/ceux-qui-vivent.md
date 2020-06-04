@@ -1,6 +1,8 @@
 ---
 title: "Ceux qui vivent, ce sont ceux qui luttent"
 author: "Victor Hugo"
+collection: "Les Châtiments"
+publication-date: 1852
 language: ":fr:"
 progress: 100
 date: 2019-09-27 00:05:00 +0200

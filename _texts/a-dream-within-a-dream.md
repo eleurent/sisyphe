@@ -1,6 +1,8 @@
 ---
 title: "A Dream Within a Dream"
 author: "Edgar Allan Poe"
+collection: "The Flag of Our Union"
+publication-date: 1849
 language: ":us:"
 date: 2020-05-19 12:25:02 +0200
 progress: 100

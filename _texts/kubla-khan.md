@@ -1,6 +1,8 @@
 ---
-title: "Kubla Khan"
+title: "Kubla Khan: or, A Vision in a Dream: A Fragment"
 author: "Samuel Taylor Coleridge"
+collection: "Poetical Works"
+publication-date: 1816
 language: ":uk:"
 date: 2019-09-26 23:58:00 +0200
 progress: 100
