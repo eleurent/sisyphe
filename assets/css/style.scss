@@ -22,6 +22,10 @@
 	padding: 86px 0;
 }
 
+.post-link {
+	font-size: 22px;
+}
+
 .site-title img {
 	max-height: 25px;
 	padding-bottom: 5px;
@@ -29,6 +33,10 @@
 
 table {
 	table-layout: fixed;
+}
+
+table th, table td {
+    padding: 8px 13px;
 }
 
 table td.title {
