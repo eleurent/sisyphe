@@ -1,6 +1,8 @@
 ---
 title: "La conscience"
 author: "Victor Hugo"
+collection: "La Légende des siècles"
+publication-date: 1885
 language: ":fr:"
 date: 2019-09-26 18:58:00 +0200
 progress: 60

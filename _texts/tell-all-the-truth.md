@@ -4,7 +4,7 @@ author: "Emily Dickinson"
 collection: "Complete Poems"
 publication-date: 1886
 language: ":us:"
-date: 2019-06-04 12:16:00 +0200
+date: 2020-06-04 12:16:00 +0200
 progress: 0
 ---
 Tell all the truth but tell it slant --

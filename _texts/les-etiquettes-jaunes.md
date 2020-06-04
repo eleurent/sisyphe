@@ -1,6 +1,8 @@
 ---
 title: "Les Étiquettes Jaunes"
 author: "Frank O'Hara"
+collection: "Meditations in an Emergency"
+publication-date: 1950
 language: ":us:"
 date: 2019-09-27 00:10:00 +0200
 progress: 100

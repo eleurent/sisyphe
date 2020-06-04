@@ -1,6 +1,8 @@
 ---
 title: "Vous ne saurez jamais"
 author: "Marguerite Yourcenar"
+collection: "Les charités d'Alcippe"
+publication-date: 1984
 language: ":fr:"
 date: 2019-09-29 00:56:00 +0200
 progress: 100

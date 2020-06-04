@@ -1,6 +1,8 @@
 ---
 title: "Nuit rhénane"
 author: "Guillaume Apollinaire"
+collection: "Rhénanes, Alcools"
+publication-date: 1913
 language: ":fr:"
 date: 2020-06-04 09:43:34 +0200
 progress: 0

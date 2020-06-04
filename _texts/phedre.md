@@ -1,5 +1,7 @@
 ---
-title: "Phèdre I, 3"
+title: "Acte I, scène 3"
+collection: "Phèdre"
+publication-date: 1677
 author: "Jean Racine"
 language: ":fr:"
 date: 2019-09-26 20:15:00 +0200
