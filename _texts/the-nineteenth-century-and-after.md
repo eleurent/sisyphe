@@ -1,7 +1,7 @@
 ---
 title: "The Nineteenth Century And After"
 author: "William Butler Yeats"
-collection: "The Winding Stair and Other Poems"
+published-in: "The Winding Stair and Other Poems"
 publication-date: 1933
 language: ":ir:"
 language_unicode: "1f1ee-1f1ea"

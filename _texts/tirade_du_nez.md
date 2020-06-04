@@ -1,7 +1,7 @@
 ---
 title: "Acte I, scène 4"
 author: "Edmond Rostand"
-collection: "Cyrano de Bergerac"
+published-in: "Cyrano de Bergerac"
 publication-date: 1897
 language: ":fr:"
 date: 2019-10-23 00:02:00 +0200

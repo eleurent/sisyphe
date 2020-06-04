@@ -1,7 +1,7 @@
 ---
 title: "Le voyage"
 author: "Charles Baudelaire"
-collection: "Les Fleurs du mal - La Mort"
+published-in: "Les Fleurs du mal - La Mort"
 publication-date: 1857
 language: ":fr:"
 date: 2019-09-27 16:15:00 +0200

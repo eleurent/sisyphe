@@ -1,7 +1,7 @@
 ---
 title: "Bluebird"
 author: "Charles Bukowski"
-collection: "The Last Night of the Earth Poems"
+published-in: "The Last Night of the Earth Poems"
 publication-date: 1992
 language: ":us:"
 date: 2019-11-09 00:02:06 +0200

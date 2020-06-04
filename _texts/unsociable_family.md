@@ -1,7 +1,7 @@
 ---
 title: "On An Unsociable Family"
 author: "Elizabeth Hands"
-collection: "The Death of Amnon: A Poem with an Appendix: Containing Pastorals, and Other Poetical Pieces"
+published-in: "The Death of Amnon: A Poem with an Appendix: Containing Pastorals, and Other Poetical Pieces"
 publication-date: 1789
 language: ":uk:"
 date: 2020-03-11 21:46:00 +0200

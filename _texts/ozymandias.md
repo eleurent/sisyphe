@@ -1,7 +1,7 @@
 ---
 title: "Ozymandias"
 author: "Percy Shelley"
-collection: "Rosalind and Helen, A Modern Eclogue; with Other Poems"
+published-in: "Rosalind and Helen, A Modern Eclogue; with Other Poems"
 publication-date: 1818
 language: ":uk:"
 date: 2019-09-26 18:38:34 +0200

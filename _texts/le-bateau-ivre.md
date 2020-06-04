@@ -1,7 +1,7 @@
 ---
 title: "Le bateau ivre"
 author: "Arthur Rimbaud"
-collection: "Poésies"
+published-in: "Poésies"
 publication-date: 1871
 language: ":fr:"
 date: 2019-09-26 17:43:51 +0200

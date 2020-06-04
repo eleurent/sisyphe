@@ -1,7 +1,7 @@
 ---
 title: "First Fig"
 author: "Edna St. Vincent Millay"
-collection: "Les Châtiments"
+published-in: "Les Châtiments"
 publication-date: 1920
 language: ":us:"
 date: 2019-09-27 00:02:00 +0200

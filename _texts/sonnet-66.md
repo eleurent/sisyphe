@@ -1,7 +1,7 @@
 ---
 title: "Sonnet 66"
 author: "William Shakespeare"
-collection: "Sonnets"
+published-in: "Sonnets"
 publication-date: 1609
 language: ":uk:"
 date: 2019-09-29 01:14:00 +0200

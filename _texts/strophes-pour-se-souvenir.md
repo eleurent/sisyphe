@@ -1,7 +1,7 @@
 ---
 title: "Strophes pour se souvenir"
 author: "Louis Aragon"
-collection: "Le Roman inachevé"
+published-in: "Le Roman inachevé"
 publication-date: 1955
 language: ":fr:"
 date: 2019-09-26 23:54:00 +0200

@@ -1,7 +1,7 @@
 ---
 title: "Tell all the truth but tell it slant "
 author: "Emily Dickinson"
-collection: "Complete Poems"
+published-in: "Complete Poems"
 publication-date: 1886
 language: ":us:"
 date: 2020-06-04 12:16:00 +0200

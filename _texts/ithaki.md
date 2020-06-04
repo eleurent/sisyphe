@@ -1,7 +1,7 @@
 ---
 title: "Ἰθάκη"
 author: "Κωνσταντίνος Καβάφης"
-collection: "Ποιήματα"
+published-in: "Ποιήματα"
 publication-date: 1911
 language: ":gr:"
 language_unicode: "1f1ec-1f1f7"

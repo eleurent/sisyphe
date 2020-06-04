@@ -1,7 +1,7 @@
 ---
 title: "Le guignon"
 author: "Charles Baudelaire"
-collection: "Les Fleurs du mal - Spleen et idéal"
+published-in: "Les Fleurs du mal - Spleen et idéal"
 publication-date: 1857
 language: ":fr:"
 date: 2019-09-26 12:21:56 +0200

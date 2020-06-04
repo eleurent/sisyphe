@@ -1,7 +1,7 @@
 ---
 title: "The Road Not Taken"
 author: "Robert Frost"
-collection: "Mountain Interval"
+published-in: "Mountain Interval"
 publication-date: 1916
 language: ":us:"
 date: 2019-09-26 20:28:00 +0200

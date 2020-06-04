@@ -1,6 +1,6 @@
 ---
 title: "Acte I, scène 3"
-collection: "Phèdre"
+published-in: "Phèdre"
 publication-date: 1677
 author: "Jean Racine"
 language: ":fr:"

@@ -1,7 +1,7 @@
 ---
 title: "Seuls demeurent - Argument"
 author: "René Char"
-collection: "Fureur et mystère"
+published-in: "Fureur et mystère"
 publication-date: 1948
 language: ":fr:"
 date: 2019-09-27 23:06:00 +0200

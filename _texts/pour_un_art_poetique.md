@@ -1,7 +1,7 @@
 ---
 title: "Pour un art poétique"
 author: "Raymond Queneau"
-collection: "L'Instant fatal"
+published-in: "L'Instant fatal"
 publication-date: 1948
 language: ":fr:"
 date: 2020-01-09 11:13:00 +0200
