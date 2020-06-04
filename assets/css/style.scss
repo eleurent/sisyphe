@@ -26,3 +26,17 @@
 	max-height: 25px;
 	padding-bottom: 5px;
 }
+
+table {
+	table-layout: fixed;
+}
+
+table td.title {
+  width: 40%;
+}
+table td.collection {
+  width: 20%;
+}
+table td.author {
+  width: 13%;
+}

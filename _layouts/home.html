@@ -15,10 +15,12 @@ layout: default
     <table class="post-list">
       {%- for text in texts -%}
       <tr>
-          <td><a class="post-link" href="{{ text.url | relative_url }}">
+          <td class="title"><a class="post-link" href="{{ text.url | relative_url }}">
             {{ text.title | escape }}
           </a></td>
-          <td><span class="post-meta">{{ text.author | escape }}</span></td>
+          <td class="collection"><span class="post-meta">{{ text.published-in | escape }}</span></td>
+          <td class="author"><span class="post-meta">{{ text.author | escape }}</span></td>
+          <td><span class="post-meta">{{ text.publication-date }}</span></td>
           <td class="post-meta">
             {%- if text.language_unicode -%}
             <img class="emoji" title="{{ text.language }}" alt="{{ text.language }}" src="https://github.githubassets.com/images/icons/emoji/unicode/{{ text.language_unicode }}.png" width="20" height="20">
