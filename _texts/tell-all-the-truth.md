@@ -5,7 +5,7 @@ published-in: "Complete Poems"
 publication-date: 1886
 language: ":us:"
 date: 2020-06-04 12:16:00 +0200
-progress: 0
+progress: 100
 ---
 Tell all the truth but tell it slant --
 Success in Circuit lies
