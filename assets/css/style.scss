@@ -48,3 +48,16 @@ table td.collection {
 table td.author {
   width: 18%;
 }
+
+@media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px)  {
+	table {
+		width: 100%;
+	}
+	table, table tbody, table th, table td, table tr {
+		display: block;
+		overflow:hidden;
+	}
+	table td.title, table td.collection, table td.author {
+		width: 100%;
+	}
+}
