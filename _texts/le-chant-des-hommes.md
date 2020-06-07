@@ -3,7 +3,8 @@ title: "Le chant des hommes"
 author: "Nazim Hikmet"
 published-in: "Il neige dans la nuit"
 publication-date: 1960
-language: ":fr:"
+language: ":tr:"
+language_unicode: "1f1f9-1f1f7"
 date: 2020-06-07 13:13:13 +0200
 progress: 0
 ---
