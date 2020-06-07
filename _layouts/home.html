@@ -17,12 +17,8 @@ layout: default
         <li>
           <span class="title"><a class="post-link" href="{{ text.url | relative_url }}">
             {{ text.title | escape }}
-          </a></span>
-          <p class="post-meta">
-          <span class="author">{{ text.author | escape }}</span> • 
-          <span class="collection post-meta">{{ text.published-in | escape }}</span>
-          <span class="post-meta">({{ text.publication-date }})</span> • 
-          <span class="post-meta">
+          </a>
+          <span class="icons">
             {%- if text.language_unicode -%}
             <img class="emoji" title="{{ text.language }}" alt="{{ text.language }}" src="https://github.githubassets.com/images/icons/emoji/unicode/{{ text.language_unicode }}.png" width="20" height="20">
             {%- else -%}
@@ -31,7 +27,11 @@ layout: default
             {% assign progress = text.progress | default: 0 %}
             {% assign progress_bar = progress | divided_by: 25 | floor | times: 25 %}
             <img class="caption__media" src={{ "/assets/img/progress_" | append: progress_bar | append: ".svg" | relative_url }} alt="{{ progress }}%" title="{{ progress }}%" width="20" height="20"/>
-          </span>
+          </span></span>
+          <p class="post-meta">
+          <span class="author">{{ text.author | escape }}</span> • 
+          <span class="collection post-meta">{{ text.published-in | escape }}</span>
+          <span class="post-meta">({{ text.publication-date }})</span>
         </p>
         </li>
       {%- endfor -%}
