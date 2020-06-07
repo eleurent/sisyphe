@@ -39,14 +39,8 @@ table th, table td {
     padding: 8px 13px;
 }
 
-table td.title {
-  width: 40%;
-}
-table td.collection {
-  width: 16%;
-}
-table td.author {
-  width: 18%;
+.collection {
+	font-style: italic;
 }
 
 @media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px)  {
