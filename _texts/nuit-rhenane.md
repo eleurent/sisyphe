@@ -5,7 +5,7 @@ published-in: "Rhénanes, Alcools"
 publication-date: 1913
 language: ":fr:"
 date: 2020-06-04 09:43:34 +0200
-progress: 0
+progress: 100
 ---
 Mon verre est plein d’un vin trembleur comme une flamme
 Écoutez la chanson lente d’un batelier
