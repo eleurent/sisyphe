@@ -6,7 +6,7 @@ publication-date: 1960
 language: ":tr:"
 language_unicode: "1f1f9-1f1f7"
 date: 2020-06-07 13:13:13 +0200
-progress: 0
+progress: 100
 ---
 Les chants des hommes
 Sont plus beaux qu’eux-mêmes
