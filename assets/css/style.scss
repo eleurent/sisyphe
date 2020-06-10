@@ -44,3 +44,25 @@ a.sort-link {
 	text-decoration:none;
 	cursor:text;
 }
+
+/** Disable hamburger menu */
+@media screen and (max-width: 800px) {
+	.site-nav {
+		border: none;
+		top: 0;
+	}
+
+	.site-nav input ~ .trigger {
+		display: block !important;
+	}
+
+	.site-nav label[for="nav-trigger"] {
+		display: none;
+	}
+
+	.site-nav .page-link {
+		display: inline-block;
+		padding: 0;
+		margin-right: 0;
+	}
+}
