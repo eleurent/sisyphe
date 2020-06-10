@@ -12,7 +12,7 @@ layout: default
   {%- if site.texts.size > 0 -%}
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Texts" }}</h2> -->
     {% assign texts = site.texts | sort: 'date' | reverse %}
-    <ul class="post-list">
+    <ul id="texts" class="post-list">
       {%- for text in texts -%}
         <li>
           <span class="title"><a class="post-link" href="{{ text.url | relative_url }}">
@@ -31,7 +31,7 @@ layout: default
           <p class="post-meta">
           <span class="author">{{ text.author | escape }}</span> • 
           <span class="collection post-meta">{{ text.published-in | escape }}</span>
-          <span class="post-meta">({{ text.publication-date }})</span>
+          <span class="publication-date post-meta">({{ text.publication-date }})</span>
         </p>
         </li>
       {%- endfor -%}
