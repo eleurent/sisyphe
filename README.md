@@ -1,5 +1,7 @@
 # [Sisyphe](http://eleurent.github.io/sisyphe)
 
+[![website](https://img.shields.io/website?url=https%3A%2F%2Feleurent.github.io%2Fsisyphe%2F)](http://eleurent.github.io/sisyphe)
+
 > Pour soulever un poids si lourd, \
 > Sisyphe, il faudrait ton courage ! \
 > Bien qu'on ait du cœur à l'ouvrage, \
