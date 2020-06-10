@@ -18,3 +18,6 @@ While the text is not known,
 3. Otherwise, step back and `Show` more words.
 
 Feel free to [fork or contribute <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>](https://github.com/eleurent/sisyphe)
+
+![poems](https://img.shields.io/github/search/eleurent/sisyphe/path:_texts?label=Poems)
+![known](https://img.shields.io/github/search/eleurent/sisyphe/progress:100%20path:_texts?color=success&label=Known)
