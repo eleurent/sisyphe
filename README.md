@@ -2,6 +2,7 @@
 
 [![website](https://img.shields.io/website?url=https%3A%2F%2Feleurent.github.io%2Fsisyphe%2F)](http://eleurent.github.io/sisyphe)
 ![poems](https://img.shields.io/github/search/eleurent/sisyphe/path:_texts?label=Poems)
+![known](https://img.shields.io/github/search/eleurent/sisyphe/progress:100  path:_texts?color=green&label=Known)
 
 > Pour soulever un poids si lourd, \
 > Sisyphe, il faudrait ton courage ! \
