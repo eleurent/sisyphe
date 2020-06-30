@@ -5,7 +5,7 @@ published-in: "Whitsun Weddings"
 publication-date: 1964
 language: ":uk:"
 date: 2020-06-30 15:55:00 +0200
-progress: 0
+progress: 100
 ---
 What are days for?
 Days are where we live.
