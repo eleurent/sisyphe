@@ -1,5 +1,5 @@
 ---
-title: "Feuillet d'Hypnos"
+title: "Feuillets d'Hypnos"
 author: "René Char"
 published-in: "Fureur et mystère"
 publication-date: 1948
