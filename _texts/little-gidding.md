@@ -1,6 +1,6 @@
 ---
 title: "Little Gidding"
-author: "T.S. Eliot"
+author: "T. S. Eliot"
 published-in: "Four Quartets, n°4"
 publication-date: 1943
 language: ":uk:"
