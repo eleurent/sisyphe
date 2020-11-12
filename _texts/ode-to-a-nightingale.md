@@ -5,7 +5,7 @@ published-in: "Annals of the Fine Arts"
 publication-date: 1819
 language: ":uk:"
 date: 2020-10-18 23:13:00 +0200
-progress: 60
+progress: 100
 ---
 
 My heart aches, and a drowsy numbness pains
