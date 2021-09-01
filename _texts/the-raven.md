@@ -5,7 +5,7 @@ published-in: "New York Evening Mirror"
 publication-date: 1845
 language: ":us:"
 date: 2021-08-26 13:44:00 +0200
-progress: 0
+progress: 40
 ---
 Once upon a midnight dreary, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore—
