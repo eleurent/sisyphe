@@ -5,7 +5,7 @@ published-in: "The Collected Poems of W. B. Yeats"
 publication-date: 1989
 language: ":uk:"
 date: 2024-06-29 12:00:00 +0100
-progress: 30
+progress: 100
 ---
 
 Turning and turning in the widening gyre
